@@ -1,0 +1,184 @@
+{
+  "device_settings": {
+    "last_used_device_index": 29,
+    "last_used_device_name": "ステレオ ミキサー (Realtek HD Audio Stereo input) (Index: 29)",
+    "auto_select_last_device": true,
+    "fallback_mode": true,
+    "working_device_confirmed": 29,
+    "working_device_note": "Device 29 (Stereo Mixer) confirmed working by diagnostics"
+  },
+  "microphone_devices": {
+    "23": {
+      "name": "デジタル オーディオ インターフェイス (USB3. 0 capture)",
+      "index": 23,
+      "last_connected": "2025-11-16T16:04:01.107202",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "29": {
+      "name": "ステレオ ミキサー (Realtek HD Audio Stereo input)",
+      "index": 29,
+      "last_connected": "2025-11-16T16:04:01.107382",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "34": {
+      "name": "マイク配列 1 ()",
+      "index": 34,
+      "last_connected": "2025-11-16T16:04:01.107432",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "35": {
+      "name": "マイク配列 2 ()",
+      "index": 35,
+      "last_connected": "2025-11-16T16:04:01.107478",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "36": {
+      "name": "マイク配列 3 ()",
+      "index": 36,
+      "last_connected": "2025-11-16T16:04:01.107525",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "1": {
+      "name": "マイク (Realtek(R) Audio)",
+      "index": 1,
+      "last_connected": "2025-11-16T16:04:01.104628",
+      "connection_status": "untested",
+      "is_default": true
+    },
+    "0": {
+      "name": "Microsoft サウンド マッパー - Input",
+      "index": 0,
+      "last_connected": "2025-11-16T16:04:01.106761",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "2": {
+      "name": "マイク配列 (デジタルマイク向けインテル® スマート・サウンド",
+      "index": 2,
+      "last_connected": "2025-11-16T16:04:01.106844",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "3": {
+      "name": "デジタル オーディオ インターフェイス (USB3. 0 ca",
+      "index": 3,
+      "last_connected": "2025-11-16T16:04:01.106901",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "9": {
+      "name": "プライマリ サウンド キャプチャ ドライバー",
+      "index": 9,
+      "last_connected": "2025-11-16T16:04:01.106954",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "10": {
+      "name": "マイク (Realtek(R) Audio)",
+      "index": 10,
+      "last_connected": "2025-11-16T16:04:01.107003",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "11": {
+      "name": "マイク配列 (デジタルマイク向けインテル® スマート・サウンド・テクノロジー)",
+      "index": 11,
+      "last_connected": "2025-11-16T16:04:01.107055",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "12": {
+      "name": "デジタル オーディオ インターフェイス (USB3. 0 capture)",
+      "index": 12,
+      "last_connected": "2025-11-16T16:04:01.107104",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "22": {
+      "name": "マイク配列 (デジタルマイク向けインテル® スマート・サウンド・テクノロジー)",
+      "index": 22,
+      "last_connected": "2025-11-16T16:04:01.107155",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "24": {
+      "name": "マイク (Realtek(R) Audio)",
+      "index": 24,
+      "last_connected": "2025-11-16T16:04:01.107282",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "28": {
+      "name": "マイク (Realtek HD Audio Mic input)",
+      "index": 28,
+      "last_connected": "2025-11-16T16:04:01.107334",
+      "connection_status": "untested",
+      "is_default": false
+    },
+    "38": {
+      "name": "デジタル オーディオ インターフェイス (USB3. 0 capture)",
+      "index": 38,
+      "last_connected": "2025-11-16T16:04:01.107573",
+      "connection_status": "untested",
+      "is_default": false
+    }
+  },
+  "device_history": [
+    {
+      "device_index": 0,
+      "device_name": "Microsoft サウンド マッパー - Input (Index: 0)",
+      "selected_at": "2025-11-16T15:05:10.725140"
+    },
+    {
+      "device_index": 1,
+      "device_name": "マイク (Realtek(R) Audio) (Index: 1)",
+      "selected_at": "2025-11-16T15:05:13.067229"
+    },
+    {
+      "device_index": 2,
+      "device_name": "マイク配列 (デジタルマイク向けインテル® スマート・サウンド (Index: 2)",
+      "selected_at": "2025-11-16T15:05:15.481783"
+    },
+    {
+      "device_index": 3,
+      "device_name": "デジタル オーディオ インターフェイス (USB3. 0 ca (Index: 3)",
+      "selected_at": "2025-11-16T15:05:17.618106"
+    },
+    {
+      "device_index": 9,
+      "device_name": "プライマリ サウンド キャプチャ ドライバー (Index: 9)",
+      "selected_at": "2025-11-16T15:05:19.899538"
+    },
+    {
+      "device_index": 10,
+      "device_name": "マイク (Realtek(R) Audio) (Index: 10)",
+      "selected_at": "2025-11-16T15:05:22.235016"
+    },
+    {
+      "device_index": 11,
+      "device_name": "マイク配列 (デジタルマイク向けインテル® スマート・サウンド・テクノロジー) (Index: 11)",
+      "selected_at": "2025-11-16T15:05:27.406880"
+    },
+    {
+      "device_index": 12,
+      "device_name": "デジタル オーディオ インターフェイス (USB3. 0 capture) (Index: 12)",
+      "selected_at": "2025-11-16T15:05:32.268689"
+    },
+    {
+      "device_index": 22,
+      "device_name": "マイク配列 (デジタルマイク向けインテル® スマート・サウンド・テクノロジー) (Index: 22)",
+      "selected_at": "2025-11-16T15:05:36.579199"
+    },
+    {
+      "device_index": 29,
+      "device_name": "ステレオ ミキサー (Realtek HD Audio Stereo input) (Index: 29)",
+      "selected_at": "2025-11-16T15:05:41.481673"
+    }
+  ],
+  "connection_status": {}
+}

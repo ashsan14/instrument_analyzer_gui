@@ -1,0 +1,702 @@
+{
+  "note_frequencies": {
+    "C0": {
+      "frequency": 16.35,
+      "western": "C0",
+      "japanese": "ド0",
+      "octave": 0,
+      "note": "C"
+    },
+    "C#0": {
+      "frequency": 17.32,
+      "western": "C#0",
+      "japanese": "ド#0",
+      "octave": 0,
+      "note": "C#"
+    },
+    "D0": {
+      "frequency": 18.35,
+      "western": "D0",
+      "japanese": "レ0",
+      "octave": 0,
+      "note": "D"
+    },
+    "D#0": {
+      "frequency": 19.45,
+      "western": "D#0",
+      "japanese": "レ#0",
+      "octave": 0,
+      "note": "D#"
+    },
+    "E0": {
+      "frequency": 20.60,
+      "western": "E0",
+      "japanese": "ミ0",
+      "octave": 0,
+      "note": "E"
+    },
+    "F0": {
+      "frequency": 21.83,
+      "western": "F0",
+      "japanese": "ファ0",
+      "octave": 0,
+      "note": "F"
+    },
+    "F#0": {
+      "frequency": 23.12,
+      "western": "F#0",
+      "japanese": "ファ#0",
+      "octave": 0,
+      "note": "F#"
+    },
+    "G0": {
+      "frequency": 24.50,
+      "western": "G0",
+      "japanese": "ソ0",
+      "octave": 0,
+      "note": "G"
+    },
+    "G#0": {
+      "frequency": 25.96,
+      "western": "G#0",
+      "japanese": "ソ#0",
+      "octave": 0,
+      "note": "G#"
+    },
+    "A0": {
+      "frequency": 27.50,
+      "western": "A0",
+      "japanese": "ラ0",
+      "octave": 0,
+      "note": "A"
+    },
+    "A#0": {
+      "frequency": 29.14,
+      "western": "A#0",
+      "japanese": "ラ#0",
+      "octave": 0,
+      "note": "A#"
+    },
+    "B0": {
+      "frequency": 30.87,
+      "western": "B0",
+      "japanese": "シ0",
+      "octave": 0,
+      "note": "B"
+    },
+    "C1": {
+      "frequency": 32.70,
+      "western": "C1",
+      "japanese": "ド1",
+      "octave": 1,
+      "note": "C"
+    },
+    "C#1": {
+      "frequency": 34.65,
+      "western": "C#1",
+      "japanese": "ド#1",
+      "octave": 1,
+      "note": "C#"
+    },
+    "D1": {
+      "frequency": 36.71,
+      "western": "D1",
+      "japanese": "レ1",
+      "octave": 1,
+      "note": "D"
+    },
+    "D#1": {
+      "frequency": 38.89,
+      "western": "D#1",
+      "japanese": "レ#1",
+      "octave": 1,
+      "note": "D#"
+    },
+    "E1": {
+      "frequency": 41.20,
+      "western": "E1",
+      "japanese": "ミ1",
+      "octave": 1,
+      "note": "E"
+    },
+    "F1": {
+      "frequency": 43.65,
+      "western": "F1",
+      "japanese": "ファ1",
+      "octave": 1,
+      "note": "F"
+    },
+    "F#1": {
+      "frequency": 46.25,
+      "western": "F#1",
+      "japanese": "ファ#1",
+      "octave": 1,
+      "note": "F#"
+    },
+    "G1": {
+      "frequency": 49.00,
+      "western": "G1",
+      "japanese": "ソ1",
+      "octave": 1,
+      "note": "G"
+    },
+    "G#1": {
+      "frequency": 51.91,
+      "western": "G#1",
+      "japanese": "ソ#1",
+      "octave": 1,
+      "note": "G#"
+    },
+    "A1": {
+      "frequency": 55.00,
+      "western": "A1",
+      "japanese": "ラ1",
+      "octave": 1,
+      "note": "A"
+    },
+    "A#1": {
+      "frequency": 58.27,
+      "western": "A#1",
+      "japanese": "ラ#1",
+      "octave": 1,
+      "note": "A#"
+    },
+    "B1": {
+      "frequency": 61.74,
+      "western": "B1",
+      "japanese": "シ1",
+      "octave": 1,
+      "note": "B"
+    },
+    "C2": {
+      "frequency": 65.41,
+      "western": "C2",
+      "japanese": "ド2",
+      "octave": 2,
+      "note": "C"
+    },
+    "C#2": {
+      "frequency": 69.30,
+      "western": "C#2",
+      "japanese": "ド#2",
+      "octave": 2,
+      "note": "C#"
+    },
+    "D2": {
+      "frequency": 73.42,
+      "western": "D2",
+      "japanese": "レ2",
+      "octave": 2,
+      "note": "D"
+    },
+    "D#2": {
+      "frequency": 77.78,
+      "western": "D#2",
+      "japanese": "レ#2",
+      "octave": 2,
+      "note": "D#"
+    },
+    "E2": {
+      "frequency": 82.41,
+      "western": "E2",
+      "japanese": "ミ2",
+      "octave": 2,
+      "note": "E"
+    },
+    "F2": {
+      "frequency": 87.31,
+      "western": "F2",
+      "japanese": "ファ2",
+      "octave": 2,
+      "note": "F"
+    },
+    "F#2": {
+      "frequency": 92.50,
+      "western": "F#2",
+      "japanese": "ファ#2",
+      "octave": 2,
+      "note": "F#"
+    },
+    "G2": {
+      "frequency": 98.00,
+      "western": "G2",
+      "japanese": "ソ2",
+      "octave": 2,
+      "note": "G"
+    },
+    "G#2": {
+      "frequency": 103.83,
+      "western": "G#2",
+      "japanese": "ソ#2",
+      "octave": 2,
+      "note": "G#"
+    },
+    "A2": {
+      "frequency": 110.00,
+      "western": "A2",
+      "japanese": "ラ2",
+      "octave": 2,
+      "note": "A"
+    },
+    "A#2": {
+      "frequency": 116.54,
+      "western": "A#2",
+      "japanese": "ラ#2",
+      "octave": 2,
+      "note": "A#"
+    },
+    "B2": {
+      "frequency": 123.47,
+      "western": "B2",
+      "japanese": "シ2",
+      "octave": 2,
+      "note": "B"
+    },
+    "C3": {
+      "frequency": 130.81,
+      "western": "C3",
+      "japanese": "ド3",
+      "octave": 3,
+      "note": "C"
+    },
+    "C#3": {
+      "frequency": 138.59,
+      "western": "C#3",
+      "japanese": "ド#3",
+      "octave": 3,
+      "note": "C#"
+    },
+    "D3": {
+      "frequency": 146.83,
+      "western": "D3",
+      "japanese": "レ3",
+      "octave": 3,
+      "note": "D"
+    },
+    "D#3": {
+      "frequency": 155.56,
+      "western": "D#3",
+      "japanese": "レ#3",
+      "octave": 3,
+      "note": "D#"
+    },
+    "E3": {
+      "frequency": 164.81,
+      "western": "E3",
+      "japanese": "ミ3",
+      "octave": 3,
+      "note": "E"
+    },
+    "F3": {
+      "frequency": 174.61,
+      "western": "F3",
+      "japanese": "ファ3",
+      "octave": 3,
+      "note": "F"
+    },
+    "F#3": {
+      "frequency": 185.00,
+      "western": "F#3",
+      "japanese": "ファ#3",
+      "octave": 3,
+      "note": "F#"
+    },
+    "G3": {
+      "frequency": 196.00,
+      "western": "G3",
+      "japanese": "ソ3",
+      "octave": 3,
+      "note": "G"
+    },
+    "G#3": {
+      "frequency": 207.65,
+      "western": "G#3",
+      "japanese": "ソ#3",
+      "octave": 3,
+      "note": "G#"
+    },
+    "A3": {
+      "frequency": 220.00,
+      "western": "A3",
+      "japanese": "ラ3",
+      "octave": 3,
+      "note": "A"
+    },
+    "A#3": {
+      "frequency": 233.08,
+      "western": "A#3",
+      "japanese": "ラ#3",
+      "octave": 3,
+      "note": "A#"
+    },
+    "B3": {
+      "frequency": 246.94,
+      "western": "B3",
+      "japanese": "シ3",
+      "octave": 3,
+      "note": "B"
+    },
+    "C4": {
+      "frequency": 261.63,
+      "western": "C4",
+      "japanese": "ド4",
+      "octave": 4,
+      "note": "C"
+    },
+    "C#4": {
+      "frequency": 277.18,
+      "western": "C#4",
+      "japanese": "ド#4",
+      "octave": 4,
+      "note": "C#"
+    },
+    "D4": {
+      "frequency": 293.66,
+      "western": "D4",
+      "japanese": "レ4",
+      "octave": 4,
+      "note": "D"
+    },
+    "D#4": {
+      "frequency": 311.13,
+      "western": "D#4",
+      "japanese": "レ#4",
+      "octave": 4,
+      "note": "D#"
+    },
+    "E4": {
+      "frequency": 329.63,
+      "western": "E4",
+      "japanese": "ミ4",
+      "octave": 4,
+      "note": "E"
+    },
+    "F4": {
+      "frequency": 349.23,
+      "western": "F4",
+      "japanese": "ファ4",
+      "octave": 4,
+      "note": "F"
+    },
+    "F#4": {
+      "frequency": 369.99,
+      "western": "F#4",
+      "japanese": "ファ#4",
+      "octave": 4,
+      "note": "F#"
+    },
+    "G4": {
+      "frequency": 392.00,
+      "western": "G4",
+      "japanese": "ソ4",
+      "octave": 4,
+      "note": "G"
+    },
+    "G#4": {
+      "frequency": 415.30,
+      "western": "G#4",
+      "japanese": "ソ#4",
+      "octave": 4,
+      "note": "G#"
+    },
+    "A4": {
+      "frequency": 440.00,
+      "western": "A4",
+      "japanese": "ラ4",
+      "octave": 4,
+      "note": "A"
+    },
+    "A#4": {
+      "frequency": 466.16,
+      "western": "A#4",
+      "japanese": "ラ#4",
+      "octave": 4,
+      "note": "A#"
+    },
+    "B4": {
+      "frequency": 493.88,
+      "western": "B4",
+      "japanese": "シ4",
+      "octave": 4,
+      "note": "B"
+    },
+    "C5": {
+      "frequency": 523.25,
+      "western": "C5",
+      "japanese": "ド5",
+      "octave": 5,
+      "note": "C"
+    },
+    "C#5": {
+      "frequency": 554.37,
+      "western": "C#5",
+      "japanese": "ド#5",
+      "octave": 5,
+      "note": "C#"
+    },
+    "D5": {
+      "frequency": 587.33,
+      "western": "D5",
+      "japanese": "レ5",
+      "octave": 5,
+      "note": "D"
+    },
+    "D#5": {
+      "frequency": 622.25,
+      "western": "D#5",
+      "japanese": "レ#5",
+      "octave": 5,
+      "note": "D#"
+    },
+    "E5": {
+      "frequency": 659.25,
+      "western": "E5",
+      "japanese": "ミ5",
+      "octave": 5,
+      "note": "E"
+    },
+    "F5": {
+      "frequency": 698.46,
+      "western": "F5",
+      "japanese": "ファ5",
+      "octave": 5,
+      "note": "F"
+    },
+    "F#5": {
+      "frequency": 739.99,
+      "western": "F#5",
+      "japanese": "ファ#5",
+      "octave": 5,
+      "note": "F#"
+    },
+    "G5": {
+      "frequency": 783.99,
+      "western": "G5",
+      "japanese": "ソ5",
+      "octave": 5,
+      "note": "G"
+    },
+    "G#5": {
+      "frequency": 830.61,
+      "western": "G#5",
+      "japanese": "ソ#5",
+      "octave": 5,
+      "note": "G#"
+    },
+    "A5": {
+      "frequency": 880.00,
+      "western": "A5",
+      "japanese": "ラ5",
+      "octave": 5,
+      "note": "A"
+    },
+    "A#5": {
+      "frequency": 932.33,
+      "western": "A#5",
+      "japanese": "ラ#5",
+      "octave": 5,
+      "note": "A#"
+    },
+    "B5": {
+      "frequency": 987.77,
+      "western": "B5",
+      "japanese": "シ5",
+      "octave": 5,
+      "note": "B"
+    },
+    "C6": {
+      "frequency": 1046.50,
+      "western": "C6",
+      "japanese": "ド6",
+      "octave": 6,
+      "note": "C"
+    },
+    "C#6": {
+      "frequency": 1108.73,
+      "western": "C#6",
+      "japanese": "ド#6",
+      "octave": 6,
+      "note": "C#"
+    },
+    "D6": {
+      "frequency": 1174.66,
+      "western": "D6",
+      "japanese": "レ6",
+      "octave": 6,
+      "note": "D"
+    },
+    "D#6": {
+      "frequency": 1244.51,
+      "western": "D#6",
+      "japanese": "レ#6",
+      "octave": 6,
+      "note": "D#"
+    },
+    "E6": {
+      "frequency": 1318.51,
+      "western": "E6",
+      "japanese": "ミ6",
+      "octave": 6,
+      "note": "E"
+    },
+    "F6": {
+      "frequency": 1396.91,
+      "western": "F6",
+      "japanese": "ファ6",
+      "octave": 6,
+      "note": "F"
+    },
+    "F#6": {
+      "frequency": 1479.98,
+      "western": "F#6",
+      "japanese": "ファ#6",
+      "octave": 6,
+      "note": "F#"
+    },
+    "G6": {
+      "frequency": 1567.98,
+      "western": "G6",
+      "japanese": "ソ6",
+      "octave": 6,
+      "note": "G"
+    },
+    "G#6": {
+      "frequency": 1661.22,
+      "western": "G#6",
+      "japanese": "ソ#6",
+      "octave": 6,
+      "note": "G#"
+    },
+    "A6": {
+      "frequency": 1760.00,
+      "western": "A6",
+      "japanese": "ラ6",
+      "octave": 6,
+      "note": "A"
+    },
+    "A#6": {
+      "frequency": 1864.66,
+      "western": "A#6",
+      "japanese": "ラ#6",
+      "octave": 6,
+      "note": "A#"
+    },
+    "B6": {
+      "frequency": 1975.53,
+      "western": "B6",
+      "japanese": "シ6",
+      "octave": 6,
+      "note": "B"
+    },
+    "C7": {
+      "frequency": 2093.00,
+      "western": "C7",
+      "japanese": "ド7",
+      "octave": 7,
+      "note": "C"
+    },
+    "C#7": {
+      "frequency": 2217.46,
+      "western": "C#7",
+      "japanese": "ド#7",
+      "octave": 7,
+      "note": "C#"
+    },
+    "D7": {
+      "frequency": 2349.32,
+      "western": "D7",
+      "japanese": "レ7",
+      "octave": 7,
+      "note": "D"
+    },
+    "D#7": {
+      "frequency": 2489.02,
+      "western": "D#7",
+      "japanese": "レ#7",
+      "octave": 7,
+      "note": "D#"
+    },
+    "E7": {
+      "frequency": 2637.02,
+      "western": "E7",
+      "japanese": "ミ7",
+      "octave": 7,
+      "note": "E"
+    },
+    "F7": {
+      "frequency": 2793.83,
+      "western": "F7",
+      "japanese": "ファ7",
+      "octave": 7,
+      "note": "F"
+    },
+    "F#7": {
+      "frequency": 2959.96,
+      "western": "F#7",
+      "japanese": "ファ#7",
+      "octave": 7,
+      "note": "F#"
+    },
+    "G7": {
+      "frequency": 3135.96,
+      "western": "G7",
+      "japanese": "ソ7",
+      "octave": 7,
+      "note": "G"
+    },
+    "G#7": {
+      "frequency": 3322.44,
+      "western": "G#7",
+      "japanese": "ソ#7",
+      "octave": 7,
+      "note": "G#"
+    },
+    "A7": {
+      "frequency": 3520.00,
+      "western": "A7",
+      "japanese": "ラ7",
+      "octave": 7,
+      "note": "A"
+    },
+    "A#7": {
+      "frequency": 3729.31,
+      "western": "A#7",
+      "japanese": "ラ#7",
+      "octave": 7,
+      "note": "A#"
+    },
+    "B7": {
+      "frequency": 3951.07,
+      "western": "B7",
+      "japanese": "シ7",
+      "octave": 7,
+      "note": "B"
+    },
+    "C8": {
+      "frequency": 4186.01,
+      "western": "C8",
+      "japanese": "ド8",
+      "octave": 8,
+      "note": "C"
+    }
+  },
+  "note_mapping": {
+    "C": "ド",
+    "C#": "ド#",
+    "Db": "レ♭",
+    "D": "レ",
+    "D#": "レ#",
+    "Eb": "ミ♭",
+    "E": "ミ",
+    "F": "ファ",
+    "F#": "ファ#",
+    "Gb": "ソ♭",
+    "G": "ソ",
+    "G#": "ソ#",
+    "Ab": "ラ♭",
+    "A": "ラ",
+    "A#": "ラ#",
+    "Bb": "シ♭",
+    "B": "シ"
+  }
+}
